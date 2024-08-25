@@ -4,9 +4,9 @@ Este repositório apresenta um cartão animado com efeito de virar, criado exclu
 
 ## 🎥 Demonstração
 
-Clique na imagem abaixo para conferir o efeito em ação:
+Veja a animação em ação abaixo:
 
-![Cartão com Efeito de Virar](https://campelo3110.github.io/cartao-com-efeito-de-virar/)
+![Cartão com Efeito de Virar](https://imgur.com/stB831i.gif)
 
 ## 🛠 Tecnologias Utilizadas
 
